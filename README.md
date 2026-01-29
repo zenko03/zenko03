@@ -13,7 +13,7 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://portfolio-jh9svon38-zeniths-projects-bf3d7e5d.vercel.app/en" title="Portfolio"><img src="https://img.shields.io/badge/-Portfolio-0ea5e9?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-six-ochre-60.vercel.app/en" title="Portfolio"><img src="https://img.shields.io/badge/-Portfolio-0ea5e9?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/toky-rabehaja" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>  
   <a href="mailto:tokywilly03@gmail.com" title="Email"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   </kbd>
@@ -88,4 +88,4 @@ Currently available for freelance projects involving React, Next.js, .NET, and m
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer"/>
 </p>
 
-<p align="center"><a href="https://portfolio-jh9svon38-zeniths-projects-bf3d7e5d.vercel.app/en"><sub>portfolio</sub></a></p>
+<p align="center"><a href="https://portfolio-six-ochre-60.vercel.app/en"><sub>portfolio</sub></a></p>
